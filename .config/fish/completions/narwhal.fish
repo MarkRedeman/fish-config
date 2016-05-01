@@ -1,0 +1,1 @@
+/home/mark/.config/fisherman/narwhal/completions/narwhal.fish

@@ -1,0 +1,1 @@
+/home/mark/.config/fisherman/extract/functions/extract.fish

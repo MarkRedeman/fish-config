@@ -1,0 +1,1 @@
+/home/mark/.config/fisherman/get/completions/get.fish

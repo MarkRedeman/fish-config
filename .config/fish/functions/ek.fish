@@ -1,0 +1,1 @@
+/home/mark/.config/fisherman/emacs/functions/ek.fish
