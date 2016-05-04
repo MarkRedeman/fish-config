@@ -29,3 +29,11 @@ set -U grcplugin_ls --color -C
 for file in ~/.config/fish/conf.d/*.fish
     source $file
 end
+
+# start X at login
+# https://wiki.archlinux.org/index.php/Fish#Start_X_at_login
+if status --is-login
+    if test -z "$DISPLAY" -a $XDG_VTNR -eq 1
+        exec startx -- -keeptty
+    end
+end
