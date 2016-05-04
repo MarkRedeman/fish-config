@@ -1,1 +1,0 @@
-/home/mark/.config/fisherman/composer/functions/composer_install.fish

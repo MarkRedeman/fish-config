@@ -1,1 +1,0 @@
-/home/mark/.config/fisherman/fasd/completions/sd.fish

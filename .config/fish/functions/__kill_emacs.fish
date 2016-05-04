@@ -1,1 +1,0 @@
-/home/mark/.config/fisherman/emacs/functions/__kill_emacs.fish

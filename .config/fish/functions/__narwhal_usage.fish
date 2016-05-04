@@ -1,1 +1,0 @@
-/home/mark/.config/fisherman/narwhal/functions/__narwhal_usage.fish

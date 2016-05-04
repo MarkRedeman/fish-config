@@ -1,1 +1,0 @@
-/home/mark/.config/fisherman/get/functions/get.fish
